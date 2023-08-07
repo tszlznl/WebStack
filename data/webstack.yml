@@ -1,4 +1,41 @@
 ---
+- taxonomy: 她是魔女
+  icon: fas fa-flask fa-lg
+  list:
+    - term: 为那凄惨苦闷的岁月
+      links:
+        - title: 四十乌鸦
+          logo: 
+          url: https://heshui.freeflarum.com/
+          description: 十七岁送姐姐出门
+        - title: 海洋主页
+          logo: 
+          url: https://why212.tk/
+          description: 
+        - title: shuisheng
+          logo: 
+          url: https://shuisheng-8712.xlog.app/
+          description: 
+        - title: 小本本
+          logo: ProcessOn.png
+          url: https://memos.zstdlc.cn/
+          description: 小本本
+        - title: 幕布
+          logo: mubu.png
+          url: https://mubu.com/app
+          description: 幕布，在线的一款思维概要整理工具，将思维以树形结构方式快速整理，书写成文。
+        - title: notion
+          logo: 
+          url: https://notion.so/
+          description: 帮助您捕捉灵感、项目和待办事项列表并确定其优先级，确保毫无疏漏。
+        - title: github
+          logo: github.jpg
+          url: https://github.com/
+          description: 线上源码托管网站。
+        - title: Everia.club
+          logo: 
+          url: https://everia.club/
+          description: Everia.club
 - taxonomy: 开源自建
   icon: far fa-star
   links:
