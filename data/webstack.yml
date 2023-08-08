@@ -28,7 +28,6 @@
           logo: ProcessOn.png
           url: https://memos.zstdlc.cn/
           description: 小本本
-
         
     - term: 一九九九
       links: 
@@ -48,10 +47,17 @@
           logo: github.jpg
           url: https://github.com/
           description: 线上源码托管网站。
+
+    - term: 二零零零
+      links:        
         - title: Everia.club
           logo: 
           url: https://everia.club/
-          description: Everia.club      
+          description: 很不错的写真网站
+        - title: 无名图书
+          logo: 
+          url: https://www.book123.info/
+          description: 下载书籍             
 
 - taxonomy: 娱乐至死
   icon: fas fa-film fa-lg
