@@ -78,7 +78,7 @@
           logo: douyin.jpeg
           url: https://www.douyin.com
           description: 抖音让每一个人看见并连接更大的世界。
-          
+
     - term: 摇滚至死
       links: 
         - title: 网易云音乐
@@ -158,35 +158,6 @@
       logo: web-tv.png
       url: https://github.com/weekend-project-space/web-tv
       description: 一键免费部署自己的在线小电视。
-- taxonomy: 科研办公
-  icon: fas fa-flask fa-lg
-  list:
-    - term: 办公学习
-      links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: ProcessOn
-          logo: ProcessOn.png
-          url: https://www.processon.com/
-          description: 免费在线作图、实时协作。
-        - title: 幕布
-          logo: mubu.png
-          url: https://mubu.com/app
-          description: 幕布，在线的一款思维概要整理工具，将思维以树形结构方式快速整理，书写成文。
-        - title: github
-          logo: github.jpg
-          url: https://github.com/
-          description: 线上源码托管网站。
-        - title: json格式化
-          logo: webfollow.png
-          url: https://weekendproject.online/json.html
-          description: json格式化
 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
@@ -197,14 +168,6 @@
           logo: 腾讯视频.png
           url: http://v.qq.com/
           description: 腾讯视频，海量视频在线观看。
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
-        - title: 爱奇艺
-          logo: 爱奇艺.png
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频。
         - title: 哔哩哔哩
           logo: 哔哩哔哩.png
           url: https://www.bilibili.com/
@@ -217,75 +180,29 @@
           logo: 网易云音乐.jpg
           url: https://music.163.com/
           description: 163 网易云音乐。
-        - title: QQ 音乐
-          logo: QQ音乐.jpg
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
-        - title: MyFreeMusic
-          logo: QQ音乐.jpg
-          url: https://tools.liumingye.cn/music/
-          description: 在线听歌下载。
-        - title: 音兔
-          logo: QQ音乐.jpg
-          url: https://www.in2s.net/
-          description: 下载音乐。
 
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
   list:
-    - term: 图形创意
-      links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: photoshop.png
-          description: Photoshop不需要解释
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
-          logo: AffinityDesigner.png
-          description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: Illustrator.png
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
-          logo: INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: 3dsmax.png
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: blender.png
-          description: Blender is the free and open source 3D creation suite.
     - term: 在线工具
       links:
-        - title: tinypng
-          url: https://tinypng.com/
+        - title: tools
+          url: https://tool.lu/
+          logo: photoshop.png
+          description: 在线工具箱
+        - title: squoosh
+          url: https://squoosh.app/
           logo: tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
+          description: 圖片壓縮
         - title: goqr
           url: http://goqr.me/
           logo: goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
+          description: 二维码生成器
         - title: ezgif
           url: https://ezgif.com
           logo: ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows.
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices.
+          description: gif制作
         - title: svgomg
           url: https://jakearchibald.github.io/svgomg/
           logo: svgomg.png
@@ -294,8 +211,28 @@
           url: https://www.gaoding.com
           logo: gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
-
-
+    - term: 办公学习
+      links:
+        - title: 金山文档
+          logo: 
+          url: https://www.kdocs.cn/
+          description: 在线办公
+        - title: 有道词典
+          logo: 有道词典.png
+          url: https://www.youdao.com/
+          description: 免费，即时的多语种在线翻译。
+        - title: 幕布
+          logo: mubu.png
+          url: https://mubu.com/app
+          description: 幕布，在线的一款思维概要整理工具，将思维以树形结构方式快速整理，书写成文。
+        - title: github
+          logo: github.jpg
+          url: https://github.com/
+          description: 线上源码托管网站。
+        - title: json格式化
+          logo: webfollow.png
+          url: https://weekendproject.online/json.html
+          description: json格式化
     - term: 博客论坛
       links:
         - title: Inoreader
@@ -310,19 +247,10 @@
           url: https://news.ycombinator.com/
           logo: hacker-news.jpg
           description: 一家关于计算机黑客和创业公司的社会化新闻网站。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
         - title: 阮一峰的网络日志
           url: http://www.ruanyifeng.com/blog/
           logo: 阮一峰.png
           description: 阮一峰，科技爱好者周刊。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: ""
-          description: 酷 壳 – CoolShell。
-
     - term: 视频教程
       links:
         - title: Photoshop Lady
@@ -337,7 +265,3 @@
           url: http://www.c945.com/web-ui-tutorial/
           logo: web_ui_tutorial.png
           description: WEB UI免费视频公开课。
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: imooc.png
-          description: 程序员的梦工厂（有UI课程）。
