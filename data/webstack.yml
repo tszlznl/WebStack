@@ -39,6 +39,10 @@
           logo: mubu.png
           url: https://mubu.com/app
           description: 幕布，在线的一款思维概要整理工具，将思维以树形结构方式快速整理，书写成文。
+        - title: Koodo Reader
+          logo: mubu.png
+          url: https://reader.960960.xyz/
+          description: Koodo Reader 是一个开源免费的电子书阅读器，支持多达15种主流电子书格式， 内置笔记、高亮、翻译功能，助力高效书籍阅读和学习。
         - title: notion
           logo: 
           url: https://notion.so/
@@ -47,6 +51,7 @@
           logo: github.jpg
           url: https://github.com/
           description: 线上源码托管网站。
+      
 
     - term: 二零零零
       links:        
@@ -57,7 +62,15 @@
         - title: 无名图书
           logo: 
           url: https://www.book123.info/
-          description: 下载书籍             
+          description: 下载书籍  
+        - title: Nodeseek
+          logo: 
+          url: https://www.nodeseek.com/
+          description: 綜合論壇
+        - title: 金鷄兒獎
+          logo: 
+          url: https://jinjier.art/
+          description: JAV金鸡儿奖官方网站                          
 
 - taxonomy: 娱乐至死
   icon: fas fa-film fa-lg
@@ -185,6 +198,10 @@
   list:
     - term: 在线工具
       links:
+        - title: 幫小忙
+          url: https://tool.browser.qq.com/
+          logo: photoshop.png
+          description: 騰訊QQ瀏覽器在线工具箱     
         - title: tools
           url: https://tool.lu/
           logo: photoshop.png
@@ -209,6 +226,7 @@
           url: https://www.gaoding.com
           logo: gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
+
     - term: 办公学习
       links:
         - title: 金山文档
@@ -249,7 +267,7 @@
           url: http://www.ruanyifeng.com/blog/
           logo: 阮一峰.png
           description: 阮一峰，科技爱好者周刊。
-    - term: 视频教程
+    - term: 教程學習
       links:
         - title: Photoshop Lady
           url: http://www.photoshoplady.com/
@@ -263,3 +281,7 @@
           url: http://www.c945.com/web-ui-tutorial/
           logo: web_ui_tutorial.png
           description: WEB UI免费视频公开课。
+        - title: PS教程
+          url: http://99ut.blueidea.com/text/photoshop/basic/index.html
+          logo: 
+          description: 大師之路，PS文字教程
