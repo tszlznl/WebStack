@@ -20,10 +20,6 @@
           logo: 
           url: https://heshui.freeflarum.com/
           description: 十七岁送姐姐出门
-        - title: shuisheng
-          logo: 
-          url: https://shuisheng-8712.xlog.app/
-          description: 
         - title: 小本本
           logo: ProcessOn.png
           url: https://memos.zstdlc.cn/
@@ -226,7 +222,10 @@
           url: https://www.gaoding.com
           logo: gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
-
+        - title: IP查詢
+          url: https://ipw.cn/
+          logo: 
+          description: 致力于普及 IPv6 ,推进 IPv6 规模部署和应用
     - term: 办公学习
       links:
         - title: 金山文档
