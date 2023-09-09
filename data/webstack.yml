@@ -86,18 +86,22 @@
   list:
     - term: 影音视频
       links:
-        - title: 腾讯视频
-          logo: 腾讯视频.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
+        - title: YouTube
+          logo: 
+          url: https://www.youtube.com/
+          description: 全球最大的视频网站
         - title: 哔哩哔哩
           logo: 哔哩哔哩.png
           url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。  
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
+          description: Bilibili 视频弹幕网站。
+        - title: AcFun
+          logo: 
+          url: https://www.acfun.cn/
+          description: AcFun是国内首家弹幕视频网站
+        - title: 腾讯视频
+          logo: 腾讯视频.png
+          url: http://v.qq.com/
+          description: 腾讯视频，海量视频在线观看。  
         - title: 爱奇艺
           logo: 爱奇艺.png
           url: https://www.iqiyi.com/
@@ -108,7 +112,11 @@
           description: 抖音让每一个人看见并连接更大的世界。
 
     - term: 摇滚至死
-      links: 
+      links:
+        - title: Spotify
+          logo: 
+          url: https://open.spotify.com
+          description: 全球最大流媒体平台
         - title: 网易云音乐
           logo: 网易云音乐.jpg
           url: https://music.163.com/
@@ -178,28 +186,6 @@
       logo: web-tv.png
       url: https://github.com/weekend-project-space/web-tv
       description: 一键免费部署自己的在线小电视。
-
-- taxonomy: 悠闲娱乐
-  icon: fas fa-film fa-lg
-  list:
-    - term: 影音视频
-      links:
-        - title: 腾讯视频
-          logo: 腾讯视频.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.png
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。
-        - title: 抖音
-          logo: douyin.jpeg
-          url: https://www.douyin.com
-          description: 抖音让每一个人看见并连接更大的世界。
-        - title: 网易云音乐
-          logo: 网易云音乐.jpg
-          url: https://music.163.com/
-          description: 163 网易云音乐。
 
 
 - taxonomy: 开发设计
