@@ -60,6 +60,14 @@
           logo: github.jpg
           url: https://github.com/
           description: 线上源码托管网站。
+        - title: Cloudflare
+          logo: 
+          url: https://dash.cloudflare.com/
+          description: 真的是一家慈善公司
+        - title: Gmail
+          logo: 
+          url: https://mail.google.com/
+          description: 谷歌邮箱
       
 
     - term: 二零零零
@@ -129,6 +137,25 @@
           logo: QQ音乐.jpg
           url: https://tools.liumingye.cn/music/
           description: 在线听歌下载。
+
+    - term: 社交娱乐
+      links:
+        - title: 推特
+          logo: 
+          url: https://twitter.com/
+          description: 黄推
+        - title: V2
+          logo: 
+          url: https://www.v2ex.com/
+          description: 看看开发者
+        - title: Reddit
+          logo: 
+          url: https://www.redditinc.com/
+          description: 全球最大论坛集中
+        - title: twitch
+          logo: 
+          url: https://www.twitch.tv/
+          description: 直播平台
 
 
 - taxonomy: 开源自建
