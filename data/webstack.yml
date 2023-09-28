@@ -87,7 +87,11 @@
         - title: 金鷄兒獎
           logo: 
           url: https://jinjier.art/
-          description: JAV金鸡儿奖官方网站                          
+          description: JAV金鸡儿奖官方网站
+        - title: 南+
+          logo: 
+          url: https://www.south-plus.net//
+          description: 一个二次元论坛？                            
 
 - taxonomy: 娱乐至死
   icon: fas fa-film fa-lg
@@ -252,6 +256,14 @@
           url: https://ipw.cn/
           logo: 
           description: 致力于普及 IPv6 ,推进 IPv6 规模部署和应用
+        - title: 美国地址生成
+          logo: 
+          url: https://www.meiguodizhi.com/
+          description: 
+        - title: 随机人名等
+          logo: 
+          url: https://www.fakepersongenerator.com/
+          description:    
     - term: 办公学习
       links:
         - title: 金山文档
