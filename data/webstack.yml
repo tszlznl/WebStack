@@ -32,9 +32,9 @@
           logo: 
           url: https://ai.creep.eu.org/
           description: 基于潘多拉的chat
-        - title: suzz
+        - title: Chat-ai
           logo: 
-          url: https://chat.suzz.fun/
+          url: https://chat.why212.tk/
           description: 
         - title: douyin下载
           logo: 
@@ -148,6 +148,10 @@
         - title: MyFreeMusic
           logo: QQ音乐.jpg
           url: https://tools.liumingye.cn/music/
+          description: 在线听歌下载。
+        - title: 铜钟
+          logo: 
+          url: https://tonzhon.com/
           description: 在线听歌下载。
 
     - term: 社交娱乐
