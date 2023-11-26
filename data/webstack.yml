@@ -43,7 +43,12 @@
         - title: CF-blog
           logo: 
           url: https://cf.tsmv.top
-          description:         
+          description:  
+        - title: helan
+          logo: 
+          url: https://45.130.22.98:40114/aa38c48c72
+          description:   
+    
 
         
     - term: 一九九九
@@ -99,7 +104,19 @@
         - title: 南+
           logo: 
           url: https://www.south-plus.net//
-          description: 一个二次元论坛？                            
+          description: 一个二次元论坛？ 
+        - title: 免费小鸡
+          logo: 
+          url: https://kimi.pp.ua/
+          description:  
+        - title: 主机百科
+          logo: 
+          url: https://zhujiwiki.com/
+          description:  
+        - title: 域名搜索
+          logo: 
+          url: https://namebeta.com/zh
+          description:                         
 
 - taxonomy: 娱乐至死
   icon: fas fa-film fa-lg
