@@ -48,6 +48,10 @@
           logo: 
           url: https://45.130.22.98:40114/aa38c48c72
           description:   
+        - title: 十七岁的天使
+          logo: 
+          url: https://tszlz.one
+          description:  
     
 
         
@@ -117,6 +121,11 @@
           logo: 
           url: https://namebeta.com/zh
           description:                         
+        - title: 毒奶导航
+          logo: 
+          url: https://limbopro.com/daohang/index.html
+          description:                         
+
 
 - taxonomy: 娱乐至死
   icon: fas fa-film fa-lg
@@ -333,6 +342,10 @@
           url: http://www.ruanyifeng.com/blog/
           logo: 阮一峰.png
           description: 阮一峰，科技爱好者周刊。
+        - title: 毒奶
+          url: https://limbopro.com/
+          logo: 
+          description: 毒奶，一个有意思的博主。
     - term: 教程學習
       links:
         - title: Photoshop Lady
