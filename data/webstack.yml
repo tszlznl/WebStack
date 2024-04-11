@@ -112,10 +112,30 @@
           logo: 
           url: https://www.nodeseek.com/
           description: 綜合論壇
-        - title: 金鷄兒獎
+        - title: Stackoverflow
           logo: 
-          url: https://jinjier.art/
-          description: JAV金鸡儿奖官方网站
+          url: https://stackoverflow.com/
+          description: 这是一个为专业和发烧友程序员协作编辑的问答网站。
+        - title: Nodeloc
+          logo: 
+          url: https://www.nodeloc.com/
+          description: 一个论坛
+        - title: Linux Do
+          logo: 
+          url: https://linux.do/
+          description: 一个论坛
+        - title: 全体主机交流论坛
+          logo: 
+          url: https://hostloc.com/
+          description: 全体主机交流论坛
+        - title: V2
+          logo: 
+          url: https://www.v2ex.com/
+          description: 看看开发者
+        - title: Reddit
+          logo: 
+          url: https://www.redditinc.com/
+          description: 全球最大论坛集中的技术社区
         - title: 南+
           logo: 
           url: https://www.south-plus.net//
@@ -181,19 +201,14 @@
           logo: 
           url: https://twitter.com/
           description: 黄推
-        - title: V2
-          logo: 
-          url: https://www.v2ex.com/
-          description: 看看开发者
-        - title: Reddit
-          logo: 
-          url: https://www.redditinc.com/
-          description: 全球最大论坛集中
         - title: twitch
           logo: 
           url: https://www.twitch.tv/
           description: 直播平台
-
+        - title: 金鷄兒獎
+          logo: 
+          url: https://jinjier.art/
+          description: JAV金鸡儿奖官方网站
 
 - taxonomy: 开源自建
   icon: far fa-star
