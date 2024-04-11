@@ -132,6 +132,18 @@
           logo: 
           url: https://www.v2ex.com/
           description: 看看开发者
+        - title: 恩山论坛
+          logo: 
+          url: https://www.right.com.cn/forum/
+          description: 路由器、NAS、网络设备
+        - title: NAG
+          logo: 
+          url: https://bbs.nga.cn/
+          description: 有时候感觉非常抽象的一个论坛，晴风村是一个绿色的村子。
+        - title: 远景论坛
+          logo: 
+          url: https://www.pcbeta.com/
+          description: 主要是黑苹果和Windows
         - title: Reddit
           logo: 
           url: https://www.redditinc.com/
@@ -310,6 +322,10 @@
           url: https://limbopro.com/
           logo: 
           description: 毒奶，一个有意思的博主。
+        - title: HelloGitHub
+          logo: 
+          url: https://hellogithub.com/
+          description: HelloGitHub 是一个发现和分享有趣、入门级开源项目的平台。
     - term: 教程學習
       links:
         - title: 没位道
