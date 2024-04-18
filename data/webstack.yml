@@ -1,6 +1,6 @@
 ---
 - taxonomy: 污秽凄苦
-  icon: fas fa-film fa-lg
+  icon: fas fa-paper-plane
   list:
     - term: 一九九八
       links:
