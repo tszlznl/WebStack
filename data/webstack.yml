@@ -84,6 +84,10 @@
           logo: mubu.png
           url: https://reader.960960.xyz/
           description: Koodo Reader 是一个开源免费的电子书阅读器，支持多达15种主流电子书格式， 内置笔记、高亮、翻译功能，助力高效书籍阅读和学习。
+        - title: 无名图书
+          logo: 
+          url: https://www.book123.info/
+          description: 下载书籍
         - title: notion
           logo: 
           url: https://notion.so/
@@ -108,10 +112,14 @@
           logo: 
           url: https://everia.club/
           description: 很不错的写真网站
-        - title: 无名图书
+        - title: Sexy Girl
           logo: 
-          url: https://www.book123.info/
-          description: 下载书籍  
+          url: https://sexygirl.one/
+          description: 写真网站  
+        - title: 即刻
+          logo: 
+          url: https://web.okjike.com/
+          description: 即刻网页版
         - title: Nodeseek
           logo: 
           url: https://www.nodeseek.com/
